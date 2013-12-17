@@ -1,0 +1,11 @@
+C:\Users\alaning\Source\Workspaces\HashThis\Tweeter\Tweeter\bin\Debug\Tweeter.exe.config
+C:\Users\alaning\Source\Workspaces\HashThis\Tweeter\Tweeter\bin\Debug\Tweeter.exe
+C:\Users\alaning\Source\Workspaces\HashThis\Tweeter\Tweeter\bin\Debug\Tweeter.pdb
+C:\Users\alaning\Source\Workspaces\HashThis\Tweeter\Tweeter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\alaning\Source\Workspaces\HashThis\Tweeter\Tweeter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\alaning\Source\Workspaces\HashThis\Tweeter\Tweeter\obj\Debug\Tweeter.csprojResolveAssemblyReference.cache
+C:\Users\alaning\Source\Workspaces\HashThis\Tweeter\Tweeter\obj\Debug\Tweeter.Form1.resources
+C:\Users\alaning\Source\Workspaces\HashThis\Tweeter\Tweeter\obj\Debug\Tweeter.Properties.Resources.resources
+C:\Users\alaning\Source\Workspaces\HashThis\Tweeter\Tweeter\obj\Debug\Tweeter.csproj.GenerateResource.Cache
+C:\Users\alaning\Source\Workspaces\HashThis\Tweeter\Tweeter\obj\Debug\Tweeter.exe
+C:\Users\alaning\Source\Workspaces\HashThis\Tweeter\Tweeter\obj\Debug\Tweeter.pdb
